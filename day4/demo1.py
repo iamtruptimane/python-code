@@ -16,7 +16,7 @@ func2(10,p2=20)
 num=100
 print(f"num={num}, type={type(num)}")
 
-num=200
+num=300
 print(f"num={num}, type={type(num)}")
 
 print(f"func1={func1}, type={type(func1)}")
