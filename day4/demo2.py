@@ -8,7 +8,7 @@ num=200
 print(f"num={num}, type={type(num)}")
 print(f"num2={num2}, type={type(num2)}")
 
-num=300
+num=500
 print(f"num={num}, type={type(num)}")
 print(f"num2={num2}, type={type(num2)}")
 
